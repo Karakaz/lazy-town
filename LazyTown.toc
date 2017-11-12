@@ -1,0 +1,76 @@
+## Interface: 20400
+## Title: LazyTown
+## Author: Karakaz
+## Notes: Provides you with a variety of tools that makes your gaming more comfortable
+## Version: 0.1.12
+## SavedVariables: LazyTownDB
+## OptionalDeps: Bagnon, Broker2FuBar, SharedMedia, simpleMinimap
+
+Libraries.xml
+
+LazyTownCreation.lua
+LazyTownOptionTable.lua
+LazyTownSupervising.lua
+LazyTownGeneral.lua
+LazyTownTechnical.lua
+LazyTown.lua
+
+Modules\Automation\AutomationOptionTable.lua
+Modules\Automation\AutomationSupervising.lua
+Modules\Automation\AutomationEventsHooks.lua
+Modules\Automation\AutomationScanInbox.lua
+
+Modules\BlackBoxPanels\BlackBoxPanelsOptionTable.lua
+Modules\BlackBoxPanels\BlackBoxPanelsSupervising.lua
+Modules\BlackBoxPanels\BlackBoxPanelsDimensionHelper.lua
+Modules\BlackBoxPanels\BlackBoxPanelsUpdateAllBoxes.lua
+Modules\BlackBoxPanels\BlackBoxPanelsBoxFunctions.lua
+Modules\BlackBoxPanels\BlackBoxPanelsSelected.lua
+Modules\BlackBoxPanels\BlackBoxPanelsAll.lua
+
+Modules\ErrorSuppression\ErrorSuppressionOptionTable.lua
+Modules\ErrorSuppression\ErrorSuppressionSupervising.lua
+Modules\ErrorSuppression\ErrorSuppression.lua
+
+Modules\JunkHandling\JunkHandlingOptionTable.lua
+Modules\JunkHandling\JunkHandlingSupervising.lua
+Modules\JunkHandling\JunkHandlingLogAndExceptions.lua
+Modules\JunkHandling\JunkHandlingConversions.lua
+Modules\JunkHandling\JunkHandlingEvents.lua
+Modules\JunkHandling\JunkHandlingGeneralItemEvaluationLogic.lua
+Modules\JunkHandling\JunkHandlingSellLogic.lua
+Modules\JunkHandling\JunkHandlingDeleteLogic.lua
+Modules\JunkHandling\JunkHandlingDisenchanting.lua
+Modules\JunkHandling\JunkHandlingDisenchantWiget.lua
+
+Modules\Misc\MiscOptionTable.lua
+Modules\Misc\MiscSupervising.lua
+Modules\Misc\MiscUpdatesSmall.lua
+Modules\Misc\MiscBagsSupervising.lua
+Modules\Misc\MiscBagsCreation.lua
+Modules\Misc\MiscBagsToggles.lua
+Modules\Misc\MiscGeneralUI.lua
+Modules\Misc\MiscGrid.lua
+Modules\Misc\MiscMap.lua
+Modules\Misc\MiscPvP.lua
+Modules\Misc\MiscQuest.lua
+Modules\Misc\DurabilityPercent\DurabilitySupervising.lua
+Modules\Misc\DurabilityPercent\Durability.lua
+Modules\Misc\ItemGlow\ItemGlowSupervising.lua
+Modules\Misc\ItemGlow\ItemGlowUpdates.lua
+
+Modules\MoveNameplates\MoveNameplatesSupervising.lua
+Modules\MoveNameplates\MoveNameplates.lua
+
+Modules\StockUp\StockUpOptionTable.lua
+Modules\StockUp\StockUpSupervising.lua
+Modules\StockUp\StockUp.lua
+
+Modules\TooltipExtras\TooltipExtrasOptionTable.lua
+Modules\TooltipExtras\TooltipExtrasSupervising.lua
+Modules\TooltipExtras\TooltipExtrasHooks.lua
+Modules\TooltipExtras\TooltipExtras.lua
+Modules\TooltipExtras\TooltipExtrasAddItemInfo.lua
+
+Modules\Viewport\ViewportOptionTable.lua
+Modules\Viewport\Viewport.lua

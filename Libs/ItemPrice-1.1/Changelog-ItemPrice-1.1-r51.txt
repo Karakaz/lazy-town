@@ -1,0 +1,32 @@
+------------------------------------------------------------------------
+r51 | nevcairiel | 2008-10-12 11:38:14 +0000 (Sun, 12 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/ItemPrice-1.1.toc
+
+Patch 3.0 prep: Remove LoD from Libraries that have no load manager (LoD+OptDep Bug)
+------------------------------------------------------------------------
+r50 | nevcairiel | 2008-10-09 21:55:22 +0000 (Thu, 09 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/ItemPrice-1.1.lua
+
+WoWAce Post-Processing: Virtually inflate Library Revision numbers for proper upgrade path
+------------------------------------------------------------------------
+r49 | nevcairiel | 2008-10-02 08:14:58 +0000 (Thu, 02 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/ItemPrice-1.1.lua
+
+Fix svn keywords
+------------------------------------------------------------------------
+r48 | root | 2008-09-29 21:42:36 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   A /trunk/.pkgmeta
+
+Facilitate WowAce-on-CurseForge transition
+------------------------------------------------------------------------
+r46 | root | 2008-09-29 20:58:13 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   D /tmp/trunk/ItemPrice-1.1
+   A /trunk (from /tmp/trunk/ItemPrice-1.1:45)
+
+Importing old repo data under /trunk
+------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+
+-------------------------------------------------------------------------------
+------   v0.1.12  ---  11.11.14   ---------------------------------------------
+
+*	Added support for FuBar through the addon Broker2FuBar and added a new
+	module: BlackBoxPanels - A simple way to make custom boxes.
+*	Added changeLog.txt
+
+-------------------------------------------------------------------------------
+------   v0.1.11  ---  01.11.14   ---------------------------------------------
+
+*	New addon version. Mainly updated for a fix to Roodabega7's report.
+
+-------------------------------------------------------------------------------
+
+ ~ changeLog.txt ~ LazyTown ~
